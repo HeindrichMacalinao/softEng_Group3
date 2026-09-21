@@ -2,7 +2,11 @@
 3BSCS-1
 
 Scrum Master: Heindrich Himmler A. Macalinao
+
 UI/UX Developer:
+
 BackEnd Developer:
+
 DevSecOps Engineer:
+
 Test Engineer:
