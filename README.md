@@ -5,7 +5,7 @@ Scrum Master: Heindrich Himmler A. Macalinao
 
 UI/UX Developer: Alexis Adrienne D. Gavarra
 
-BackEnd Developer: Vincent M. Mazo
+BackEnd Developer:
 
 DevSecOps Engineer: Florence Gabriel B. Juanco
 
