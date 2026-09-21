@@ -7,6 +7,6 @@ UI/UX Developer:
 
 BackEnd Developer:
 
-DevSecOps Engineer:
+DevSecOps Engineer: Florence Gabriel B. Juanco
 
 Test Engineer:
