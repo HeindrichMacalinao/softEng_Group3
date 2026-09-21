@@ -3,7 +3,7 @@
 
 Scrum Master: Heindrich Himmler A. Macalinao
 
-UI/UX Developer:
+UI/UX Developer: Alexis Adrienne D. Gavarra
 
 BackEnd Developer:
 
