@@ -1,12 +1,17 @@
+<div align="center">
+
 # softEng_Group3
-3BSCS-1
 
-Scrum Master: Heindrich Himmler A. Macalinao
+**Class:** 3BSCS-1
 
-UI/UX Developer: Alexis Adrienne D. Gavarra
+### Team Members & Roles
 
-BackEnd Developer: Vincent M. Mazo
+| Role | Member |
+| :--- | :--- |
+| **Scrum Master** | Heindrich Himmler A. Macalinao |
+| **UI/UX Developer** | Alexis Adrienne D. Gavarra |
+| **BackEnd Developer** | Vincent M. Mazo |
+| **DevSecOps Engineer** | Florence Gabriel B. Juanco |
+| **Test Engineer** | Ythan Clarke DR. Orogo |
 
-DevSecOps Engineer: Florence Gabriel B. Juanco
-
-Test Engineer: Ythan Clarke DR. Orogo
+</div>
