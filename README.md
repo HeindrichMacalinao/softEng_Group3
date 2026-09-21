@@ -1,8 +1,10 @@
+<div align="center">
+
 # softEng_Group3
 
 **Class:** 3BSCS-1
 
-## Team Members & Roles
+### Team Members & Roles
 
 | Role | Member |
 | :--- | :--- |
@@ -11,3 +13,5 @@
 | **BackEnd Developer** | Vincent M. Mazo |
 | **DevSecOps Engineer** | Florence Gabriel B. Juanco |
 | **Test Engineer** | Ythan Clarke DR. Orogo |
+
+</div>
