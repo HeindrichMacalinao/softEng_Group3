@@ -7,6 +7,6 @@ UI/UX Developer:
 
 BackEnd Developer: Vincent M. Mazo
 
-DevSecOps Engineer:
+DevSecOps Engineer: Florence Gabriel B. Juanco
 
 Test Engineer: Ythan Clarke DR. Orogo
